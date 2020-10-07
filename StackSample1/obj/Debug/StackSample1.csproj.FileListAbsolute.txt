@@ -1,0 +1,10 @@
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\bin\Debug\StackSample1.exe.config
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\bin\Debug\StackSample1.exe
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\bin\Debug\StackSample1.pdb
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\obj\Debug\StackSample1.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\obj\Debug\StackSample1.Form1.resources
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\obj\Debug\StackSample1.Properties.Resources.resources
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\obj\Debug\StackSample1.csproj.GenerateResource.cache
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\obj\Debug\StackSample1.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\obj\Debug\StackSample1.exe
+C:\Users\Thalitha\source\repos\StackSample1\StackSample1\obj\Debug\StackSample1.pdb
